@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:layout_gravity="center"
+    android:orientation="vertical" >
+    
+    <Button
+        android:id="@+id/bStartAlarm"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="StartAlarm" />
+    <Button
+        android:id="@+id/bOpenScraper"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Scraper" />
+
+    <Button
+        android:id="@+id/bOpenEditor"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Editor" />
+    
+    <Button
+        android:id="@+id/bOpenEditor2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Editor 2" />
+
+</LinearLayout>
