@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1fb7663-2c6a-430e-b92e-37dfdf13ae20" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/diamondo/newsletterwriter/ActivityEditor.java" />
-    </list>
+    <list default="true" id="e1fb7663-2c6a-430e-b92e-37dfdf13ae20" name="Default" comment="" />
     <ignored path="NewsletterWriter.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
