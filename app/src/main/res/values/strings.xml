@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Newsletter Writer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_navigator">Newsletter Writer</string>
+    <string name="title_activity_scraper">Scraper</string>
+    <string name="title_activity_editor">Editor</string>
+    <string name="title_activity_editor2">Editor2</string>
+    <string name="default_date_format">HH:mm, d MMM yy</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+</resources>

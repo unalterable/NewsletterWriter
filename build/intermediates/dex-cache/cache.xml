@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/o/workspace/newsletter_writer/app/libs/jsoup-1.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.8.1_994dcafc17c028e5183c830038540c810265c415/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/o/workspace/newsletter_writer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d97050c3f79388529ae238b777c028093d43873e">
+        <dex dex="/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ad7e9766b70fafb736a33d805cb472b9ca667e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/o/workspace/newsletter_writer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f1c483b373eb1cddc50aaadce75322b2a6c29c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/o/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/o/workspace/newsletter_writer/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_93066fc7cee22020a081b7f5fefd91b8523214ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/o/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_93066fc7cee22020a081b7f5fefd91b8523214ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/o/.android/build-cache/ac71d4c5479add787d69bbee16bf1498c7860753/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/o/workspace/newsletter_writer/app/build/intermediates/pre-dexed/debug/classes_d1b120fc3fbf705fbf9e62b82b8d3e57db244ba9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/o/.android/build-cache/ac71d4c5479add787d69bbee16bf1498c7860753/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1b120fc3fbf705fbf9e62b82b8d3e57db244ba9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/o/workspace/newsletter_writer/app/libs/jsoup-1.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="/home/o/workspace/newsletter_writer/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1_994dcafc17c028e5183c830038540c810265c415.jar" />
+    </item>
+
+</items>

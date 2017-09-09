@@ -1,0 +1,10 @@
+#Sat Sep 09 13:36:01 BST 2017
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1b120fc3fbf705fbf9e62b82b8d3e57db244ba9
+base.1=/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_93066fc7cee22020a081b7f5fefd91b8523214ab
+base.0=/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.8.1_994dcafc17c028e5183c830038540c810265c415
+file.2=/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1b120fc3fbf705fbf9e62b82b8d3e57db244ba9/classes.dex
+file.1=/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_93066fc7cee22020a081b7f5fefd91b8523214ab/classes.dex
+file.0=/home/o/workspace/newsletter_writer/app/build/intermediates/transforms/dex/debug/folders/1000/2/jsoup-1.8.1_994dcafc17c028e5183c830038540c810265c415/classes.dex

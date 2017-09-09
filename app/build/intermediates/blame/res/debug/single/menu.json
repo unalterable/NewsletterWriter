@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/o/workspace/newsletter_writer/app/build/intermediates/res/merged/debug/menu/editor.xml",
+        "source": "/home/o/workspace/newsletter_writer/app/src/main/res/menu/editor.xml"
+    },
+    {
+        "merged": "/home/o/workspace/newsletter_writer/app/build/intermediates/res/merged/debug/menu/navigator.xml",
+        "source": "/home/o/workspace/newsletter_writer/app/src/main/res/menu/navigator.xml"
+    },
+    {
+        "merged": "/home/o/workspace/newsletter_writer/app/build/intermediates/res/merged/debug/menu/scraper.xml",
+        "source": "/home/o/workspace/newsletter_writer/app/src/main/res/menu/scraper.xml"
+    }
+]

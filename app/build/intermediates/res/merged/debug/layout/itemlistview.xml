@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <RelativeLayout
+        android:id="@+id/rlMainLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#e6e6e6"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvFeedName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:padding="3dp"
+            android:text="Feed Name"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tvDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:padding="2dp"
+            android:text="Date"
+            android:textSize="12sp" />
+
+        <LinearLayout
+            android:id="@+id/llMenu"
+            android:layout_below="@id/tvFeedName"
+            android:layout_alignBottom="@+id/llContent"
+            android:layout_alignTop="@+id/llContent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:paddingTop="2dp"
+            android:paddingBottom="2dp" >
+
+            <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#e5e5e5"
+            android:padding="3dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/bPersonal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Personal" />
+
+                <Button
+                    android:id="@+id/bWork"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Work" />
+                
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/llContent"
+            android:layout_below="@id/tvFeedName"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#e5e5e5"
+            android:orientation="vertical"
+            android:paddingLeft="10dp" 
+            android:paddingRight="10dp" >
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tvDescription"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Description"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/tvUrl"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="URL"
+                android:textSize="8sp"
+                android:textStyle="italic" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/vRectangle"
+        android:layout_width="5dp"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@+id/rlMainLayout"
+        android:layout_alignTop="@+id/rlMainLayout" />
+
+</RelativeLayout>

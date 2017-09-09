@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+       <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="25sp"
+            android:gravity="center"
+            android:orientation="horizontal" >>
+
+            <Spinner
+                android:id="@+id/spFeedMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="25sp"
+                android:paddingTop="0px"
+                android:paddingBottom="0px"/>
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/bMarkAsRead"
+                android:layout_width="wrap_content"
+                android:layout_height="40sp"
+                android:paddingTop="0px"
+                android:paddingBottom="0px"
+                android:text="Mark as Read" />
+                        
+            <Button
+                android:id="@+id/bSend"
+                android:layout_width="wrap_content"
+                android:layout_height="40sp"
+                android:paddingTop="0px"
+                android:paddingBottom="0px"
+                android:text="Wipe Bskt &amp; Send" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvProgress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="0" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="10.0sp" 
+        android:divider="#00000000">"
+    </ListView>
+
+</LinearLayout>
